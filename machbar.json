@@ -69,12 +69,6 @@
          "id":2,
          "name":"bottom",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"fairy_dust.json#start"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
