@@ -1029,8 +1029,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":6,
          "firstgid":340,
-         "source":"Wagen.tsx"
+         "image":"der_wagen_3.png",
+         "imageheight":96,
+         "imagewidth":192,
+         "margin":0,
+         "name":"Wagen",
+         "spacing":0,
+         "tilecount":18,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
