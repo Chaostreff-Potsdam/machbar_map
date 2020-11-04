@@ -45,12 +45,6 @@
          "id":15,
          "name":"top",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/sensors.ccc-p.org\/d\/XLavcHvGz\/aquaponik?orgId=1&refresh=1m"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -927,6 +921,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/sensors.ccc-p.org\/d\/XLavcHvGz\/aquaponik?orgId=1&refresh=1m"
                         }]
                 }, 
                 {
