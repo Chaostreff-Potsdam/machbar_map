@@ -70,7 +70,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -158,6 +158,26 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":58
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":59
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":60
+                        }, 
+                        {
+                         "duration":3000,
+                         "tileid":61
+                        }],
+                 "id":61
                 }],
          "tilewidth":32
         }, 
