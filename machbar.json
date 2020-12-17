@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pad.ccc-p.org\/WA-Machbar_Ideen"
+                 "value":"https:\/\/codimd.c3d2.de\/machbar-WA-Ideen"
                 }],
          "type":"tilelayer",
          "visible":true,
