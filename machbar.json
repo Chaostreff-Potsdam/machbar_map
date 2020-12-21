@@ -151,7 +151,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/maps\/main.json"
+                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
