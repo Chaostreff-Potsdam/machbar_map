@@ -199,7 +199,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/swarm.hiveeyes.org\/grafana\/d\/A6w4yabZk\/freiland-potsdam-thias-lora-multi-hive-ttnlogger?orgId=2&var-HIVE_NAME=freiland_hive1_sensors&var-STATION=Potsdam&from=now-7d&to=now&kiosk&refresh=15m"
+                 "value":"https:\/\/rc3.sknebel.net\/bienengrafana.html"
                 }],
          "type":"tilelayer",
          "visible":true,
