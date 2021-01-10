@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"machbar_topfloor.json"
+                 "value":"Online_Seminarraum_002.json"
                 }],
          "type":"tilelayer",
          "visible":true,
