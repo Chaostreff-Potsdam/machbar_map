@@ -99,12 +99,6 @@
          "id":22,
          "name":"backSeminarraum",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"Online_Seminarraum_002.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":72,
