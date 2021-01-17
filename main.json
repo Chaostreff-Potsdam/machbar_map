@@ -87,6 +87,12 @@
          "id":25,
          "name":"startFromOutsideStairs",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":72,
@@ -99,6 +105,12 @@
          "id":22,
          "name":"backSeminarraum",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":72,

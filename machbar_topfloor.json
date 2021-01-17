@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"main.json#startFromOutsideStairs"
                 }],
          "type":"tilelayer",
          "visible":true,
