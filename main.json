@@ -385,6 +385,11 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"jitsiUrl",
+         "type":"string",
+         "value":"meet.d.ccc-p.org"
+        }, 
+        {
          "name":"silent",
          "type":"bool",
          "value":true
