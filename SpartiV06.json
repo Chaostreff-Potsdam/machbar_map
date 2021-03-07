@@ -7516,10 +7516,6 @@
         {
          "firstgid":3351,
          "source":"chaos_zone_moving2.tsx"
-        }, 
-        {
-         "firstgid":5399,
-         "source":"..\/..\/machBar Map\/Map2\/machBar Stand Februar2021\/machBar Stand Februar2021\/FactoryEnvironment01.tsx"
         }],
  "tilewidth":32,
  "type":"map",
