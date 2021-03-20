@@ -361,7 +361,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/ccc-p.org:8000\/sparti.mp3"
+                 "value":"https:\/\/stream.ccc-p.org\/sparti.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
