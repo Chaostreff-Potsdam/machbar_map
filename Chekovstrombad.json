@@ -1003,12 +1003,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/sensors.ccc-p.org\/d\/XLavcHvGz\/aquaponik?orgId=1&refresh=1m"
+                         "value":false
                         }]
                 }, 
                 {
