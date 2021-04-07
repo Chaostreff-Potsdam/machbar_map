@@ -33,6 +33,12 @@
          "id":59,
          "name":"Musikbereiche",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"http:\/\/streams.fluxfm.de\/technoug\/mp3-320\/streams.fluxfm.de\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -45,6 +51,12 @@
          "id":60,
          "name":"Wasserrauschensoundbereich",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"seeufer.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -57,6 +69,12 @@
          "id":61,
          "name":"Kloger\u00e4uschebereich",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"spuelung.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
