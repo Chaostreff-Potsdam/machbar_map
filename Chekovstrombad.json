@@ -197,7 +197,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsi",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"strombadwiese2"
                 }],
@@ -215,7 +215,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsi",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"strombadwiese3"
                 }],
@@ -233,7 +233,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsi",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"strombadwiese4"
                 }],
