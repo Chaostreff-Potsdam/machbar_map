@@ -307,7 +307,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.startnext.com\/save-spartacus"
+                 "value":"http:\/\/spartacus-potsdam.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
