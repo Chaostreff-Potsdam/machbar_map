@@ -198,7 +198,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/spartacus-potsdam.de\/"
+                 "value":"https:\/\/spartacus-potsdam.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
