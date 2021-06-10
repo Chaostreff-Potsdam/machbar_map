@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"radialsystem.json"
+                 "value":"radialsystem.json#start_stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
