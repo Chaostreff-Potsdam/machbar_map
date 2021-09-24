@@ -304,9 +304,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.chsterz.de\/spartistream.html"
+                 "value":"https:\/\/streams.fluxfm.de\/technoug\/mp3-320"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -592,7 +592,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
