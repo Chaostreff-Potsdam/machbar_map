@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"haus_2.json#start"
+                 "value":"haus_2.json#Start_Secret_Room"
                 }],
          "type":"tilelayer",
          "visible":true,
