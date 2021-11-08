@@ -108,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"freiland.json"
+                 "value":"freiland.json#Haus_1_Exit"
                 }],
          "type":"tilelayer",
          "visible":true,
