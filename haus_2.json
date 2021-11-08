@@ -32,6 +32,12 @@
          "id":25,
          "name":"Start_Secret_Room",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -98,6 +104,12 @@
          "id":29,
          "name":"Start_Secret_Cellar",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
