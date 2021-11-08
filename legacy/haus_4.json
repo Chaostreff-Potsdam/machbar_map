@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/freiland.json"
+                 "value":"..\/freiland.json#Haus_4_Exit"
                 }],
          "type":"tilelayer",
          "visible":true,
