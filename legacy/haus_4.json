@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"../freiland.json"
+                 "value":"..\/freiland.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -136,7 +136,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {

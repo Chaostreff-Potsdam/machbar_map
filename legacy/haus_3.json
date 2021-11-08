@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"."
+         "format":"json"
         }
     },
  "height":65,
@@ -181,7 +180,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"haus_5.json"
+                 "value":"..\/freiland.json#Haus_3_Exit_Side_Left"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -557,7 +556,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -8138,6 +8137,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":24
 }

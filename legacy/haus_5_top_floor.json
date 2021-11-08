@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"."
+         "format":"json"
         }
     },
  "height":33,
@@ -61,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"haus_5.json#startFromStairs"
+                 "value":"haus_5.json#Exit_Stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"haus_5.json#startFromOutsideStairs"
+                 "value":"haus_5.json#Exit_Stairs_Outside"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -156,7 +155,7 @@
          "value":"meet.d.ccc-p.org"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -6221,6 +6220,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":60
 }
