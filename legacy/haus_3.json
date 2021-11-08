@@ -493,12 +493,7 @@
          "id":7,
          "name":"override",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"depth",
-                 "type":"int",
-                 "value":3
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":24,
