@@ -353,7 +353,7 @@
         {
          "columns":9,
          "firstgid":1,
-         "image":"C:\/Users\/john\/Downloads\/machbar_map-feature-overview\/tileset_toilet.png",
+         "image":"tileset_toilet.png",
          "imageheight":352,
          "imagewidth":288,
          "margin":0,
@@ -366,7 +366,7 @@
         {
          "columns":8,
          "firstgid":100,
-         "image":"C:\/Users\/john\/Downloads\/machbar_map-feature-overview\/tileset_base.png",
+         "image":"tileset_base.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -379,7 +379,7 @@
         {
          "columns":8,
          "firstgid":1164,
-         "image":"C:\/Users\/john\/Downloads\/machbar_map-feature-overview\/tileset_shadows.png",
+         "image":"tileset_shadows.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -392,7 +392,7 @@
         {
          "columns":16,
          "firstgid":1212,
-         "image":"C:\/Users\/john\/Downloads\/machbar_map-feature-overview\/tileset_beds_and_shelves.png",
+         "image":"tileset_beds_and_shelves.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -405,7 +405,7 @@
         {
          "columns":74,
          "firstgid":1436,
-         "image":"C:\/Users\/john\/Downloads\/machbar_map-feature-overview\/tileset_indoor.png",
+         "image":"tileset_indoor.png",
          "imageheight":2368,
          "imagewidth":2368,
          "margin":0,
@@ -418,7 +418,7 @@
         {
          "columns":74,
          "firstgid":6912,
-         "image":"C:\/Users\/john\/Downloads\/machbar_map-feature-overview\/tileset_freiland_buildings.png",
+         "image":"tileset_freiland_buildings.png",
          "imageheight":2368,
          "imagewidth":2368,
          "margin":0,
