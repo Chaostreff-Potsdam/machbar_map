@@ -328,14 +328,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UCBmeXuYhjZRHII-ZHNAVZdw"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                 "value":"https:\/\/stream.ccc-p.org\/sparti.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
