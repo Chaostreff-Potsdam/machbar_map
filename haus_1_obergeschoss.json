@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"haus_1.json#Entry_Haus_1_Treppe_Haupteingang"
+                 "value":"haus_1.json#Entry_Haus_1_Treppen_Haupteingang"
                 }],
          "type":"tilelayer",
          "visible":true,

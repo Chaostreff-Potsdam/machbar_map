@@ -44,6 +44,12 @@
          "id":27,
          "name":"Entry_Haus_1_Treppen_Haupteingang",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
