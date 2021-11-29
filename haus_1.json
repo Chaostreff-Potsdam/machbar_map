@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"haus_1_obergeschoss_Treppe_Haupteingang.json"
+                 "value":"haus_1_obergeschoss.json#start_Treppe_Haupteingang"
                 }],
          "type":"tilelayer",
          "visible":true,

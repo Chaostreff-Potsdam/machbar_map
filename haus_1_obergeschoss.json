@@ -8,6 +8,12 @@
          "id":30,
          "name":"start_Treppe_Haupteingang",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
