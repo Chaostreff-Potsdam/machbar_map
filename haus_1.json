@@ -246,7 +246,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"freiland.json#Haus_1_Exit_Offenes_Atelier"
+                 "value":"freiland.json#Haus_1_offenes_Atelier_Exit"
                 }],
          "type":"tilelayer",
          "visible":true,
