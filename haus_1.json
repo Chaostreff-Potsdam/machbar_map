@@ -222,7 +222,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Haus_1_Exit"
+                 "value":"freiland.json#Haus_1_Exit"
                 }],
          "type":"tilelayer",
          "visible":true,
