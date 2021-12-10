@@ -435,6 +435,19 @@
          "tilecount":220,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":32,
+         "firstgid":24680,
+         "image":"tileset_animations.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"tileset_animations",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
