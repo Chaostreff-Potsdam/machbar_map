@@ -139,7 +139,7 @@
                  "value":"haus_1.json#Entry_Haus_1_Treppen_Haupteingang"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":150,
          "x":0,
          "y":0
@@ -154,10 +154,10 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Entry_Haus_1_Treppe_Offenes_Atelier"
+                 "value":"haus_1.json#Entry_Haus_1_Treppe_Offenes_Atelier"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":150,
          "x":0,
          "y":0
