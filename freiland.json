@@ -1755,8 +1755,8 @@
         {
          "columns":15,
          "firstgid":25381,
-         "image":"graffitti\/graffitti_64\/shuffled_graffiti.png",
-         "imageheight":5056,
+         "image":"graffitti\/graffitti_shuffle\/shuffled_graffiti.png",
+         "imageheight":4928,
          "imagewidth":494,
          "margin":0,
          "name":"shuffled_graffiti",
