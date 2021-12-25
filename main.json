@@ -1316,7 +1316,7 @@
          "name":"Wagen2",
          "properties":[
                 {
-                 "name":"tilesetCoypright",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"ccc-p internal"
                 }],
