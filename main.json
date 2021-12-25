@@ -331,12 +331,6 @@
          "id":7,
          "name":"override",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"depth",
-                 "type":"int",
-                 "value":3
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":72,
@@ -347,11 +341,6 @@
  "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
-        {
-         "name":"jitsiUrl",
-         "type":"string",
-         "value":"meet.d.ccc-p.org"
-        }, 
         {
          "name":"mapCopyright",
          "type":"string",
@@ -1176,11 +1165,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/sensors.ccc-p.org\/d\/XLavcHvGz\/aquaponik?orgId=1&refresh=1m"
                         }]
                 }, 
                 {

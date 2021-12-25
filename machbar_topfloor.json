@@ -132,11 +132,6 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"jitsiUrl",
-         "type":"string",
-         "value":"meet.d.ccc-p.org"
-        }, 
-        {
          "name":"mapCopyright",
          "type":"string",
          "value":"ccc-p"
