@@ -24,7 +24,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/2d.freiland-potsdam.de\/maps\/haus2stream.html"
+                 "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UCBmeXuYhjZRHII-ZHNAVZdw"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 }],
          "type":"tilelayer",
          "visible":true,
