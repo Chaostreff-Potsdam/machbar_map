@@ -274,12 +274,17 @@
          "height":100,
          "id":36,
          "name":"Door_Semi_1_Step_Zone_Pincode",
-         "opacity":0,
+         "opacity":0.24,
          "properties":[
                 {
                  "name":"autoClose",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":false
                 }, 
                 {
                  "name":"code",
