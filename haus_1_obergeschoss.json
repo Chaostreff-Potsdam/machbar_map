@@ -274,7 +274,7 @@
          "height":100,
          "id":36,
          "name":"Door_Semi_1_Step_Zone_Pincode",
-         "opacity":0.24,
+         "opacity":0,
          "properties":[
                 {
                  "name":"autoClose",
@@ -307,7 +307,7 @@
          "height":100,
          "id":37,
          "name":"Door_Semi_1_Step_Zone_Exit",
-         "opacity":0.35,
+         "opacity":0,
          "properties":[
                 {
                  "name":"autoClose",
