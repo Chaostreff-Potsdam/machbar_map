@@ -284,12 +284,7 @@
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":false
-                }, 
-                {
-                 "name":"code",
-                 "type":"string",
-                 "value":"1337"
+                 "value":true
                 }, 
                 {
                  "name":"doorVariable",
@@ -312,7 +307,7 @@
          "height":100,
          "id":37,
          "name":"Door_Semi_1_Step_Zone_Exit",
-         "opacity":0,
+         "opacity":0.35,
          "properties":[
                 {
                  "name":"autoClose",
@@ -377,9 +372,9 @@
                  "value":true
                 }, 
                 {
-                 "name":"code",
-                 "type":"string",
-                 "value":"1312"
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":true
                 }, 
                 {
                  "name":"doorVariable",
