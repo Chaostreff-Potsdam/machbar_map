@@ -428,7 +428,12 @@
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
+                 "value":false
+                }, 
+                {
+                 "name":"code",
+                 "type":"string",
+                 "value":"1312"
                 }, 
                 {
                  "name":"doorVariable",
